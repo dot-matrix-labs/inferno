@@ -1,0 +1,71 @@
+# Reciprocal Open Source License (ROSL) v1.0
+
+Copyright (c) 2026 Dot Matrix Labs. All rights reserved.
+
+## Terms and Conditions
+
+This license grants rights to use, copy, modify, and distribute this software
+("Software") under the following tiered terms based on your usage category.
+
+---
+
+### 1. Researchers and Individual End Users
+
+If you are an individual using this Software for personal, educational, or
+non-commercial research purposes, you may use, copy, modify, and distribute
+this Software under either of the following licenses at your choice:
+
+- **Apache License 2.0** (https://www.apache.org/licenses/LICENSE-2.0)
+- **MIT License** (https://opensource.org/licenses/MIT)
+
+---
+
+### 2. Business Users with Open Source Operations
+
+If you are a business entity that releases its primary operational software
+as open source under an OSI-approved license, you may use this Software under
+the same license you apply to your own software.
+
+**Requirements:**
+- Your operational software must be publicly available under an OSI-approved
+  open source license (e.g., Apache 2.0, MIT, GPL, MPL).
+- The open source release must represent genuine operational software, not
+  token or trivial projects created solely to qualify under this provision.
+- Upon request, you must provide evidence of your qualifying open source
+  software to the licensor.
+
+**Effect:** If you license your software under Apache 2.0, you may use this
+Software under Apache 2.0. If you use MIT, this Software is available to you
+under MIT, and so forth.
+
+---
+
+### 3. Business Users without Open Source Operations
+
+If you are a business entity that does not meet the criteria in Section 2
+(i.e., you do not release your primary operational software as open source),
+this Software is licensed to you under the terms of the **Business Source
+License 1.1** (BSL) with the following parameters:
+
+- **Change Date:** Four (4) years from the date of each release
+- **Change License:** Apache License 2.0
+- **Additional Use Grant:** None
+
+Under BSL terms, you may view, modify, and use the Software internally, but
+production use requires a commercial license from the licensor until the
+Change Date, at which point it converts to Apache 2.0.
+
+---
+
+### 4. General Provisions
+
+- **No Warranty:** This Software is provided "as is" without warranty of any
+  kind, express or implied.
+- **Limitation of Liability:** In no event shall the authors be liable for
+  any damages arising from use of this Software.
+- **Governing Interpretation:** If ambiguity exists regarding your usage
+  category, the licensor reserves the right to make a determination.
+
+---
+
+For commercial licensing inquiries, contact: [INSERT CONTACT EMAIL]
